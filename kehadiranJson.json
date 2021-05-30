@@ -1,0 +1,900 @@
+{
+    "kehadiran": 
+        {"undangan001" : {
+            "idTamu": "undangan001",
+            "nama": "Agi Agung Galuh Purwa, S.STP, M.Sc., M.P.A",
+            "shift": "sesi 3"
+        },
+        "undangan002" : {
+            "idTamu": "undangan002",
+            "nama": "Gustiman, S.Sos",
+            "shift": "sesi 3"
+        },
+        "undangan003" : {
+            "idTamu": "undangan003",
+            "nama": "Indah Dwianti, S. Kom",
+            "shift": "sesi 3"
+        },
+        "undangan004" : {
+            "idTamu": "undangan004",
+            "nama": "Gumilar, ST., MT",
+            "shift": "sesi 3"
+        },
+        "undangan005" : {
+            "idTamu": "undangan005",
+            "nama": "Galih Pramudia",
+            "shift": "sesi 3"
+        },
+        "undangan006" : {
+            "idTamu": "undangan006",
+            "nama": "Roby Juliansyah",
+            "shift": "sesi 3"
+        },
+        "undangan007" : {
+            "idTamu": "undangan007",
+            "nama": "Pofi Putri Utami, S.Si",
+            "shift": "sesi 3"
+        },
+        "undangan008" : {
+            "idTamu": "undangan008",
+            "nama": "Uray Andro Oktaviar, S. Psi",
+            "shift": "sesi 3"
+        },
+        "undangan009" : {
+            "idTamu": "undangan009",
+            "nama": "Grian Hendra Oktiana, S. S",
+            "shift": "sesi 3"
+        },
+        "undangan010" : {
+            "idTamu": "undangan010",
+            "nama": "Faza Kamila Ulfah",
+            "shift": "sesi 3"
+        },
+        "undangan011" : {
+            "idTamu": "undangan011",
+            "nama": "Elfrida Yunizar Ratih Tanjung",
+            "shift": "sesi 3"
+        },
+        "undangan012" : {
+            "idTamu": "undangan012",
+            "nama": "Nuraini Intanpratiwi",
+            "shift": "sesi 3"
+        },
+        "undangan013" : {
+            "idTamu": "undangan013",
+            "nama": "Iqbal Fauzan",
+            "shift": "sesi 3"
+        },
+        "undangan014" : {
+            "idTamu": "undangan014",
+            "nama": "Budi Setiawan",
+            "shift": "sesi 3"
+        },
+        "undangan015" : {
+            "idTamu": "undangan015",
+            "nama": "Kania Aulia Dwiputri",
+            "shift": "sesi 3"
+        },
+        "undangan016" : {
+            "idTamu": "undangan016",
+            "nama": "Rian Andrian, M.T",
+            "shift": "sesi 3"
+        },
+        "undangan017" : {
+            "idTamu": "undangan017",
+            "nama": "Rizki Rusdiwijaya, M.T",
+            "shift": "sesi 3"
+        },
+        "undangan018" : {
+            "idTamu": "undangan018",
+            "nama": "Alexander Randika Pratama, S.Sn",
+            "shift": "sesi 3"
+        },
+        "undangan019" : {
+            "idTamu": "undangan019",
+            "nama": "Yoga Hanggara, S.Pd",
+            "shift": "sesi 3"
+        },
+        "undangan020" : {
+            "idTamu": "undangan020",
+            "nama": "Aldy Rialdy Atmadja, S.T, M.T",
+            "shift": "sesi 3"
+        },
+        "undangan021" : {
+            "idTamu": "undangan021",
+            "nama": "Rizki Ananda Putra, S.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan022" : {
+            "idTamu": "undangan022",
+            "nama": "Erlangga Nugraha, S.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan023" : {
+            "idTamu": "undangan023",
+            "nama": "Syarifatul Ulya",
+            "shift": "sesi 3"
+        },
+        "undangan024" : {
+            "idTamu": "undangan024",
+            "nama": "Adityo Trimurdani",
+            "shift": "sesi 3"
+        },
+        "undangan025" : {
+            "idTamu": "undangan025",
+            "nama": "Izzati Dalilah, S. Kom",
+            "shift": "sesi 3"
+        },
+        "undangan026" : {
+            "idTamu": "undangan026",
+            "nama": "Rizki Adam Kurniawan, S.Kom, M.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan027" : {
+            "idTamu": "undangan027",
+            "nama": "Aldy Ginanjar, S.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan028" : {
+            "idTamu": "undangan028",
+            "nama": "Ashri Nooraida Permana, S.I.Pus, MDInfoM",
+            "shift": "sesi 3"
+        },
+        "undangan029" : {
+            "idTamu": "undangan029",
+            "nama": "Dinda Putri Eka Sari",
+            "shift": "sesi 3"
+        },
+        "undangan030" : {
+            "idTamu": "undangan030",
+            "nama": "Endah Nursalehah",
+            "shift": "sesi 3"
+        },
+        "undangan031" : {
+            "idTamu": "undangan031",
+            "nama": "Dias Eka Ferdianto, S.Kom, B. IT",
+            "shift": "sesi 3"
+        },
+        "undangan032" : {
+            "idTamu": "undangan032",
+            "nama": "Aldi Doanta Kurnia, S.T",
+            "shift": "sesi 3"
+        },
+        "undangan033" : {
+            "idTamu": "undangan033",
+            "nama": "Aldi Rohman, S.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan034" : {
+            "idTamu": "undangan034",
+            "nama": "Kimberly Puspasari, S.I.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan035" : {
+            "idTamu": "undangan035",
+            "nama": "Nisrina Rohadatul Aisy, S.Si",
+            "shift": "sesi 3"
+        },
+        "undangan036" : {
+            "idTamu": "undangan036",
+            "nama": "Putry Yuliyanty Wahyuni, S.Pd",
+            "shift": "sesi 3"
+        },
+        "undangan037" : {
+            "idTamu": "undangan037",
+            "nama": "Kurnia Sari Aisyiah, S.Si, M.Rc",
+            "shift": "sesi 3"
+        },
+        "undangan038" : {
+            "idTamu": "undangan038",
+            "nama": "R. Andrew Mikail, S.S",
+            "shift": "sesi 3"
+        },
+        "undangan039" : {
+            "idTamu": "undangan039",
+            "nama": "Cindytia Fitriani Rahardjo, S.IP",
+            "shift": "sesi 3"
+        },
+        "undangan040" : {
+            "idTamu": "undangan040",
+            "nama": "Rizi Advista Permana, S.T",
+            "shift": "sesi 3"
+        },
+        "undangan041" : {
+            "idTamu": "undangan041",
+            "nama": "Ibrahim Ukrin Putra Adi Dharmesta, S.T",
+            "shift": "sesi 3"
+        },
+        "undangan042" : {
+            "idTamu": "undangan042",
+            "nama": "Ayi Mutakin, S.Farm",
+            "shift": "sesi 3"
+        },
+        "undangan043" : {
+            "idTamu": "undangan043",
+            "nama": "Dyana Chusnulitta Jatnika, S.Kesos., M.Sc",
+            "shift": "sesi 3"
+        },
+        "undangan044" : {
+            "idTamu": "undangan044",
+            "nama": "Resty Asmauryanah Armis, M. Phil",
+            "shift": "sesi 3"
+        },
+        "undangan045" : {
+            "idTamu": "undangan045",
+            "nama": "Fanny Prina",
+            "shift": "sesi 3"
+        },
+        "undangan046" : {
+            "idTamu": "undangan046",
+            "nama": "Putri Ardila Mounda",
+            "shift": "sesi 3"
+        },
+        "undangan047" : {
+            "idTamu": "undangan047",
+            "nama": "Jimy Candra Gunawan",
+            "shift": "sesi 3"
+        },
+        "undangan048" : {
+            "idTamu": "undangan048",
+            "nama": "Fitri Afriantika, S.Pd",
+            "shift": "sesi 3"
+        },
+        "undangan049" : {
+            "idTamu": "undangan049",
+            "nama": "Ayik Mardiansah, S.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan050" : {
+            "idTamu": "undangan050",
+            "nama": "Edwina Narulita Sari Agustin, S.Kep",
+            "shift": "sesi 3"
+        },
+        "undangan052" : {
+            "idTamu": "undangan052",
+            "nama": "Nia Karuniawati Solihah, S.Pd",
+            "shift": "sesi 3"
+        },
+        "undangan053" : {
+            "idTamu": "undangan053",
+            "nama": "Rafdi Ghufran Bustomi, S.I.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan054" : {
+            "idTamu": "undangan054",
+            "nama": "Regina Margiawanti, S.I.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan055" : {
+            "idTamu": "undangan055",
+            "nama": "M. Zikril Hakim",
+            "shift": "sesi 3"
+        },
+        "undangan057" : {
+            "idTamu": "undangan057",
+            "nama": "Eki Dita Permana",
+            "shift": "sesi 3"
+        },
+        "undangan058" : {
+            "idTamu": "undangan058",
+            "nama": "Bagus Hadi Prasetyo",
+            "shift": "sesi 3"
+        },
+        "undangan059" : {
+            "idTamu": "undangan059",
+            "nama": "Dyar Dwiqi Adriadi Nur",
+            "shift": "sesi 3"
+        },
+        "undangan060" : {
+            "idTamu": "undangan060",
+            "nama": "Rafa Syafiq Bastikarana",
+            "shift": "sesi 3"
+        },
+        "undangan061" : {
+            "idTamu": "undangan061",
+            "nama": "Arifatus Hikmah Rusmanansari",
+            "shift": "sesi 3"
+        },
+        "undangan062" : {
+            "idTamu": "undangan062",
+            "nama": "Delvira Novasanda Chesary Putri",
+            "shift": "sesi 3"
+        },
+        "undangan063" : {
+            "idTamu": "undangan063",
+            "nama": "Nurul Nur Annisa",
+            "shift": "sesi 3"
+        },
+        "undangan064" : {
+            "idTamu": "undangan064",
+            "nama": "Fauzi Hadi Al Amri",
+            "shift": "sesi 3"
+        },
+        "undangan065" : {
+            "idTamu": "undangan065",
+            "nama": "Nea Maryami Ningtyas, S.H.Int.",
+            "shift": "sesi 3"
+        },
+        "undangan066" : {
+            "idTamu": "undangan066",
+            "nama": "Aldy Nur Febrian, S.Ikom",
+            "shift": "sesi 3"
+        },
+        "undangan068" : {
+            "idTamu": "undangan068",
+            "nama": "Surya Kusuma Ardhani",
+            "shift": "sesi 3"
+        },
+        "undangan069" : {
+            "idTamu": "undangan069",
+            "nama": "Harits Fathoni",
+            "shift": "sesi 3"
+        },
+        "undangan070" : {
+            "idTamu": "undangan070",
+            "nama": "Fulca Veda",
+            "shift": "sesi 3"
+        },
+        "undangan071" : {
+            "idTamu": "undangan071",
+            "nama": "Adji Putra Intan Pratama",
+            "shift": "sesi 3"
+        },
+        "undangan072" : {
+            "idTamu": "undangan072",
+            "nama": "Aulia Rifqiandono, S.I.Kom",
+            "shift": "sesi 3"
+        },
+        "undangan073" : {
+            "idTamu": "undangan073",
+            "nama": "Arif Budiman",
+            "shift": "sesi 3"
+        },
+        "undangan074" : {
+            "idTamu": "undangan074",
+            "nama": "Chandra Jumara Mukti",
+            "shift": "sesi 3"
+        },
+        "undangan075" : {
+            "idTamu": "undangan075",
+            "nama": "Restia Faradina",
+            "shift": "sesi 3"
+        },
+        "undangan076" : {
+            "idTamu": "undangan076",
+            "nama": "Restu Karimah Rahmania Fauzi",
+            "shift": "sesi 3"
+        },
+        "undangan077" : {
+            "idTamu": "undangan077",
+            "nama": "Anggi Wahyu Setiadi",
+            "shift": "sesi 3"
+        },
+        "undangan078" : {
+            "idTamu": "undangan078",
+            "nama": "Albian Marie Maruf",
+            "shift": "sesi 3"
+        },
+        "undangan079" : {
+            "idTamu": "undangan079",
+            "nama": "Mohammad Reksa Suryapandita",
+            "shift": "sesi 3"
+        },
+        "undangan080" : {
+            "idTamu": "undangan080",
+            "nama": "Arfian Maulidan Pua Meno",
+            "shift": "sesi 3"
+        },
+        "undangan081" : {
+            "idTamu": "undangan081",
+            "nama": "Muhammad Muhrizal Hidayat",
+            "shift": "sesi 3"
+        },
+        "undangan082" : {
+            "idTamu": "undangan082",
+            "nama": "Iman Hernawan",
+            "shift": "sesi 3"
+        },
+        "undangan083" : {
+            "idTamu": "undangan083",
+            "nama": "Albar Agista",
+            "shift": "sesi 3"
+        },
+        "undangan084" : {
+            "idTamu": "undangan084",
+            "nama": "Ahmad Yusuf Fauzi",
+            "shift": "sesi 3"
+        },
+        "undangan085" : {
+            "idTamu": "undangan085",
+            "nama": "Azwar",
+            "shift": "sesi 3"
+        },
+        "undangan086" : {
+            "idTamu": "undangan086",
+            "nama": "Danu",
+            "shift": "sesi 3"
+        },
+        "undangan087" : {
+            "idTamu": "undangan087",
+            "nama": "Faisal Irfan",
+            "shift": "sesi 3"
+        },
+        "undangan088" : {
+            "idTamu": "undangan088",
+            "nama": "Regi",
+            "shift": "sesi 3"
+        },
+        "undangan089" : {
+            "idTamu": "undangan089",
+            "nama": "Guruh",
+            "shift": "sesi 3"
+        },
+        "undangan090" : {
+            "idTamu": "undangan090",
+            "nama": "Ichsan",
+            "shift": "sesi 3"
+        },
+        "undangan091" : {
+            "idTamu": "undangan091",
+            "nama": "Faerul",
+            "shift": "sesi 3"
+        },
+        "undangan092" : {
+            "idTamu": "undangan092",
+            "nama": "Fikry Andias",
+            "shift": "sesi 3"
+        },
+        "undangan093" : {
+            "idTamu": "undangan093",
+            "nama": "Imam",
+            "shift": "sesi 3"
+        },
+        "undangan094" : {
+            "idTamu": "undangan094",
+            "nama": "Rizky Primabhakti",
+            "shift": "sesi 3"
+        },
+        "undangan095" : {
+            "idTamu": "undangan095",
+            "nama": "Irfan Sahri R",
+            "shift": "sesi 3"
+        },
+        "undangan096" : {
+            "idTamu": "undangan096",
+            "nama": "Arga",
+            "shift": "sesi 3"
+        },
+        "undangan097" : {
+            "idTamu": "undangan097",
+            "nama": "Sodeng",
+            "shift": "sesi 3"
+        },
+        "undangan098" : {
+            "idTamu": "undangan098",
+            "nama": "Yuana",
+            "shift": "sesi 3"
+        },
+        "undangan099" : {
+            "idTamu": "undangan099",
+            "nama": "Shendy",
+            "shift": "sesi 3"
+        },
+        "undangan100" : {
+            "idTamu": "undangan100",
+            "nama": "Dikson",
+            "shift": "sesi 3"
+        },
+        "undangan101" : {
+            "idTamu": "undangan101",
+            "nama": "Babeh",
+            "shift": "sesi 3"
+        },
+        "undangan102" : {
+            "idTamu": "undangan102",
+            "nama": "Teh Nina",
+            "shift": "sesi 3"
+        },
+        "undangan103" : {
+            "idTamu": "undangan103",
+            "nama": "Dzulfiqar",
+            "shift": "sesi 3"
+        },
+        "undangan104" : {
+            "idTamu": "undangan104",
+            "nama": "Darajat",
+            "shift": "sesi 3"
+        },
+        "undangan105" : {
+            "idTamu": "undangan105",
+            "nama": "Ivan Ali",
+            "shift": "sesi 3"
+        },
+        "undangan106" : {
+            "idTamu": "undangan106",
+            "nama": "Damet",
+            "shift": "sesi 3"
+        },
+        "undangan107" : {
+            "idTamu": "undangan107",
+            "nama": "Mochamad Reza Rizaldi, S. T",
+            "shift": "sesi 3"
+        },
+        "undangan108" : {
+            "idTamu": "undangan108",
+            "nama": "Ardan",
+            "shift": "sesi 3"
+        },
+        "undangan109" : {
+            "idTamu": "undangan109",
+            "nama": "Arina Rahmatya",
+            "shift": "sesi 3"
+        },
+        "undangan110" : {
+            "idTamu": "undangan110",
+            "nama": "Selly",
+            "shift": "sesi 3"
+        },
+        "undangan111" : {
+            "idTamu": "undangan111",
+            "nama": "Mira",
+            "shift": "sesi 3"
+        },
+        "undangan112" : {
+            "idTamu": "undangan112",
+            "nama": "Valentina Gobasi",
+            "shift": "sesi 3"
+        },
+        "undangan113" : {
+            "idTamu": "undangan113",
+            "nama": "Indriyani",
+            "shift": "sesi 3"
+        },
+        "undangan114" : {
+            "idTamu": "undangan114",
+            "nama": "Mia",
+            "shift": "sesi 3"
+        },
+        "undangan115" : {
+            "idTamu": "undangan115",
+            "nama": "Andre",
+            "shift": "sesi 3"
+        },
+        "undangan116" : {
+            "idTamu": "undangan116",
+            "nama": "Mardhiyyah",
+            "shift": "sesi 3"
+        },
+        "undangan117" : {
+            "idTamu": "undangan117",
+            "nama": "Herviyan",
+            "shift": "sesi 3"
+        },
+        "undangan118" : {
+            "idTamu": "undangan118",
+            "nama": "Fikry Subarkah",
+            "shift": "sesi 3"
+        },
+        "undangan119" : {
+            "idTamu": "undangan119",
+            "nama": "Wanto&Riska",
+            "shift": "sesi 3"
+        },
+        "undangan120" : {
+            "idTamu": "undangan120",
+            "nama": "Via",
+            "shift": "sesi 3"
+        },
+        "undangan121" : {
+            "idTamu": "undangan121",
+            "nama": "Gina&Suami",
+            "shift": "sesi 3"
+        },
+        "undangan122" : {
+            "idTamu": "undangan122",
+            "nama": "Feby Anisyara",
+            "shift": "sesi 3"
+        },
+        "undangan123" : {
+            "idTamu": "undangan123",
+            "nama": "Nasa Salamy",
+            "shift": "sesi 3"
+        },
+        "undangan124" : {
+            "idTamu": "undangan124",
+            "nama": "Cipuy",
+            "shift": "sesi 3"
+        },
+        "undangan125" : {
+            "idTamu": "undangan125",
+            "nama": "Kang Araji",
+            "shift": "sesi 3"
+        },
+        "undangan126" : {
+            "idTamu": "undangan126",
+            "nama": "Kang Ajie",
+            "shift": "sesi 3"
+        },
+        "undangan127" : {
+            "idTamu": "undangan127",
+            "nama": "Kang Bisma",
+            "shift": "sesi 3"
+        },
+        "undangan128" : {
+            "idTamu": "undangan128",
+            "nama": "Rio",
+            "shift": "sesi 3"
+        },
+        "undangan129" : {
+            "idTamu": "undangan129",
+            "nama": "Kang Agung",
+            "shift": "sesi 3"
+        },
+        "undangan130" : {
+            "idTamu": "undangan130",
+            "nama": "Fyda",
+            "shift": "sesi 3"
+        },
+        "undangan131" : {
+            "idTamu": "undangan131",
+            "nama": "Eka Nurchaya",
+            "shift": "sesi 3"
+        },
+        "undangan132" : {
+            "idTamu": "undangan132",
+            "nama": "Sonia",
+            "shift": "sesi 3"
+        },
+        "undangan133" : {
+            "idTamu": "undangan133",
+            "nama": "Shofie",
+            "shift": "sesi 3"
+        },
+        "undangan134" : {
+            "idTamu": "undangan134",
+            "nama": "Pandu & Enes",
+            "shift": "sesi 3"
+        },
+        "undangan135" : {
+            "idTamu": "undangan135",
+            "nama": "Zensa",
+            "shift": "sesi 3"
+        },
+        "undangan136" : {
+            "idTamu": "undangan136",
+            "nama": "Faisal",
+            "shift": "sesi 3"
+        },
+        "undangan137" : {
+            "idTamu": "undangan137",
+            "nama": "Nita",
+            "shift": "sesi 3"
+        },
+        "undangan138" : {
+            "idTamu": "undangan138",
+            "nama": "Intan",
+            "shift": "sesi 3"
+        },
+        "undangan139" : {
+            "idTamu": "undangan139",
+            "nama": "Mutia",
+            "shift": "sesi 3"
+        },
+        "undangan140" : {
+            "idTamu": "undangan140",
+            "nama": "Neti",
+            "shift": "sesi 3"
+        },
+        "undangan141" : {
+            "idTamu": "undangan141",
+            "nama": "Sofa",
+            "shift": "sesi 3"
+        },
+        "undangan142" : {
+            "idTamu": "undangan142",
+            "nama": "Sabataria",
+            "shift": "sesi 3"
+        },
+        "undangan143" : {
+            "idTamu": "undangan143",
+            "nama": "Emil",
+            "shift": "sesi 3"
+        },
+        "undangan144" : {
+            "idTamu": "undangan144",
+            "nama": "Sherly",
+            "shift": "sesi 3"
+        },
+        "undangan145" : {
+            "idTamu": "undangan145",
+            "nama": "Tria",
+            "shift": "sesi 3"
+        },
+        "undangan146" : {
+            "idTamu": "undangan146",
+            "nama": "Savira",
+            "shift": "sesi 3"
+        },
+        "undangan147" : {
+            "idTamu": "undangan147",
+            "nama": "Nova",
+            "shift": "sesi 3"
+        },
+        "undangan148" : {
+            "idTamu": "undangan148",
+            "nama": "Rensy",
+            "shift": "sesi 3"
+        },
+        "undangan149" : {
+            "idTamu": "undangan149",
+            "nama": "Wendy",
+            "shift": "sesi 3"
+        },
+        "undangan150" : {
+            "idTamu": "undangan150",
+            "nama": "Novianti",
+            "shift": "sesi 3"
+        },
+        "undangan151" : {
+            "idTamu": "undangan151",
+            "nama": "Ira",
+            "shift": "sesi 3"
+        },
+        "undangan152" : {
+            "idTamu": "undangan152",
+            "nama": "Dilla",
+            "shift": "sesi 3"
+        },
+        "undangan153" : {
+            "idTamu": "undangan153",
+            "nama": "Rhama",
+            "shift": "sesi 3"
+        },
+        "undangan154" : {
+            "idTamu": "undangan154",
+            "nama": "Dinda",
+            "shift": "sesi 3"
+        },
+        "undangan155" : {
+            "idTamu": "undangan155",
+            "nama": "Ipang",
+            "shift": "sesi 3"
+        },
+        "undangan156" : {
+            "idTamu": "undangan156",
+            "nama": "Adit",
+            "shift": "sesi 3"
+        },
+        "undangan157" : {
+            "idTamu": "undangan157",
+            "nama": "Keju",
+            "shift": "sesi 3"
+        },
+        "undangan158" : {
+            "idTamu": "undangan158",
+            "nama": "Yuda",
+            "shift": "sesi 3"
+        },
+        "undangan159" : {
+            "idTamu": "undangan159",
+            "nama": "Eka",
+            "shift": "sesi 3"
+        },
+        "undangan160" : {
+            "idTamu": "undangan160",
+            "nama": "Nindy",
+            "shift": "sesi 3"
+        },
+        "undangan161" : {
+            "idTamu": "undangan161",
+            "nama": "Kang Dimas",
+            "shift": "sesi 3"
+        },
+        "undangan162" : {
+            "idTamu": "undangan162",
+            "nama": "Fachrul",
+            "shift": "sesi 3"
+        },
+        "undangan163" : {
+            "idTamu": "undangan163",
+            "nama": "Dini",
+            "shift": "sesi 3"
+        },
+        "undangan164" : {
+            "idTamu": "undangan164",
+            "nama": "Ipung",
+            "shift": "sesi 3"
+        },
+        "undangan165" : {
+            "idTamu": "undangan165",
+            "nama": "Rian Apriyani",
+            "shift": "sesi 3"
+        },
+        "undangan166" : {
+            "idTamu": "undangan166",
+            "nama": "Hamdan Basirun",
+            "shift": "sesi 3"
+        },
+        "undangan167" : {
+            "idTamu": "undangan167",
+            "nama": "Dhiny",
+            "shift": "sesi 3"
+        },
+        "undangan168" : {
+            "idTamu": "undangan168",
+            "nama": "Cintya",
+            "shift": "sesi 3"
+        },
+        "undangan169" : {
+            "idTamu": "undangan169",
+            "nama": "Setiaji, ST.,M.Si (Kepala Dinas)",
+            "shift": "sesi 3"
+        },
+        "undangan170" : {
+            "idTamu": "undangan170",
+            "nama": "Hj. Astria Priantie, S.E., M.M (Kepala Sub Bagian Keuangan dan Aset)",
+            "shift": "sesi 3"
+        },
+        "undangan171" : {
+            "idTamu": "undangan171",
+            "nama": "Winny Citra Dewi Utami, S.Sos., M.Kesos (Kepala Sub Bagian Kepegawaian, Umum, dan Kehumasan)",
+            "shift": "sesi 3"
+        },
+        "undangan172" : {
+            "idTamu": "undangan172",
+            "nama": "H. Mark Aditya, S.E., M.T (Kepala Seksi Pengelolaan Infrastruktur)",
+            "shift": "sesi 3"
+        },
+        "undangan173" : {
+            "idTamu": "undangan173",
+            "nama": "Jefri",
+            "shift": "sesi 3"
+        },
+        "undangan174" : {
+            "idTamu": "undangan174",
+            "nama": "Fanny",
+            "shift": "sesi 3"
+        },
+        "undangan175" : {
+            "idTamu": "undangan175",
+            "nama": "Adi",
+            "shift": "sesi 3"
+        },
+        "undangan176" : {
+            "idTamu": "undangan176",
+            "nama": "Rani",
+            "shift": "sesi 3"
+        },
+        "undangan177" : {
+            "idTamu": "undangan177",
+            "nama": "Hadi",
+            "shift": "sesi 3"
+        },
+        "undangan178" : {
+            "idTamu": "undangan178",
+            "nama": "Wenti",
+            "shift": "sesi 3"
+        },
+        "undangan179" : {
+            "idTamu": "undangan179",
+            "nama": "Bp. Sali Alas majapahit",
+            "shift": "sesi 3"
+        },
+        "undangan180" : {
+            "idTamu": "undangan180",
+            "nama": "Bp. Agus Hexagraha",
+            "shift": "sesi 3"
+        },
+        "undangan181" : {
+            "idTamu": "undangan181",
+            "nama": "Ibu Ririn Dwi Agustin",
+            "shift": "sesi 3"
+        },
+        "undangan182" : {
+            "idTamu": "undangan182",
+            "nama": "Bp. Dodi",
+            "shift": "sesi 3"
+        }
+    }
+    
+}

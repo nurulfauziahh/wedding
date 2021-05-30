@@ -1,0 +1,36 @@
+{
+  "person2": {
+    "ud1" : {
+      "nama": "Kristin",
+      "occupation": "Teacher",
+      "shift" : "1",
+      "kehadiran" : ""
+      
+    },
+    "ud2" :{
+      "nama": "Olivia",
+      "occupation": "Teacher",
+      "shift" : "2",
+      "kehadiran" : ""
+    },
+    "ud3" :{
+      "nama": "Jimmy",
+      "occupation": "Teacher",
+      "shift" : "2",
+      "kehadiran" : ""
+
+    },
+    "ud4" :{
+      "nama": "Zack",
+      "occupation": "Teacher",
+      "shift" : "1",
+      "kehadiran" : ""
+    },
+    "ud5" :{
+      "nama": "Brad",
+      "occupation": "Teacher",
+      "shift" : "3",
+      "kehadiran" : ""
+    }
+  }
+}
