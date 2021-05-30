@@ -30,7 +30,7 @@ function readUser() {
     document.getElementById("table").innerHTML = `<thead class="thead-dark">
         <tr>
         <th scope="col" width="70 px">#</th>
-        <th scope="col">Nama Tamu</th>
+        <th scope="col" width="130 px">Nama Tamu</th>
         <th scope="col">Shift</th>
         <th scope="col">Id Tamu</th>
         <th scope="col">Status kehadiran</th>
