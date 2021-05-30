@@ -33,6 +33,7 @@ function readUser() {
         <th scope="col">Nama Tamu</th>
         <th scope="col">Shift</th>
         <th scope="col">Id Tamu</th>
+        <th scope="col">Status</th>
         <th scope="col">Action</th>
       </tr>
     </thead>`;
@@ -46,6 +47,7 @@ function readUser() {
               <td class="card-title nama">${kehadiran.nama}</td>
               <td class= "shift">${kehadiran.shift}</td>
               <td class="idTamu">${kehadiran.idTamu}</td>
+              <td class="idTamu">${kehadiran.hadir}</td>
               
            
               <td>
