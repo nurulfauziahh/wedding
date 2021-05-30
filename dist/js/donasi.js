@@ -47,7 +47,7 @@ function readUser() {
               <td class="card-title nama">${kehadiran.nama}</td>
               <td class= "shift">${kehadiran.shift}</td>
               <td class="idTamu">${kehadiran.idTamu}</td>
-              <td class="idTamu">${kehadiran.hadir}</td>
+              <td class="hadir">${kehadiran.hadir}</td>
               
            
               <td>
