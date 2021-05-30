@@ -4,29 +4,29 @@ const userCollection = database.collection('Campaign');
 var statusAdd = false;
 var campaign;
 
-function myFunction() {
-  var input, filter, table, tr, td, i, txtValue;
+function myFunction() {{
+  var input, filter, table, tr, td, i ,alltables;
+  alltables = document.querySelectorAll("table");
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
-  table = document.getElementById("table");
-  tr = table.getElementsByTagName("tr");
-
-  for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[0];
-    td = tr[i].getElementsByTagName("td")[1];
-    td = tr[i].getElementsByTagName("td")[2];
-    td = tr[i].getElementsByTagName("td")[3];
-    if (td) {
-      txtValue = td.textContent || td.innerText;
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        tr[i].style.display = "";
-      } else {
-        tr[i].style.display = "none";
-      }
-    }
-  }
-}
-
+  alltables.forEach(function(table){{
+      tr = table.getElementsByTagName("tr"),
+      th = table.getElementsByTagName("th");
+  
+      for (i = 1; i < tr.length; i++) {{
+              tr[i].style.display = "none";
+              for(var j=0; j<th.length; j++){{
+          td = tr[i].getElementsByTagName("td")[j];      
+          if (td) {{
+              if (td.innerHTML.toUpperCase().indexOf(filter.toUpperCase()) > -1){{
+                  tr[i].style.display = "";
+                  break;
+              }}
+          }}
+      }} 
+  }}     
+  }})
+  }}
 
 function readUser() {
   firebase.firestore().collection("kehadiran").onSnapshot(function (snapshot) {
