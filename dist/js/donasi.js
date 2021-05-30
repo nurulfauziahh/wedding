@@ -200,7 +200,7 @@ $('#edit-campaign-button').click(function(){
   })
     .then(() => { console.log('Data Successfully');
   
-    // document.location.href = '../dist/wedding.html';
+    document.location.href = '../dist/wedding.html';
   })
     .catch(error => { console.error(error) });
     
