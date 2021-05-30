@@ -33,7 +33,7 @@ function readUser() {
         <th scope="col">Nama Tamu</th>
         <th scope="col">Shift</th>
         <th scope="col">Id Tamu</th>
-        <th scope="col">Status</th>
+        <th scope="col">Status kehadiran</th>
         <th scope="col">Action</th>
       </tr>
     </thead>`;
